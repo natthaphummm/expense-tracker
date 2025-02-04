@@ -1,0 +1,16 @@
+{
+    "name": "expense-tracker",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "jest": "^29.7.0"
+    }
+}
